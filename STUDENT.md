@@ -6,13 +6,13 @@ Fill in every field below before your first commit. This file is how instructors
 
 | Field | Your Answer |
 |-------|-------------|
-| Full Name | |
-| GitHub Username | |
-| Email Address | |
-| Phone / WhatsApp | |
+| Full Name |Chidozie Miracle Mmesomma |
+| GitHub Username | Miracleweb-ux|
+| Email Address |chiboimiracle@gmail.com |
+| Phone / WhatsApp | 07013105797|
 | Cohort | Havilah Club Internship — Cohort |
-| Programme Start Date | |
-| LinkedIn Profile | |
+| Programme Start Date |7 september 2026 |
+| LinkedIn Profile |Chidozie Miracle |
 
 ---
 
@@ -20,8 +20,8 @@ Fill in every field below before your first commit. This file is how instructors
 
 Write 2–3 sentences describing what you specifically want to be able to do by the end of the 8 weeks.
 
-> Replace this line with your learning objective.
 
+By the end of the 8 weeks, I want to understand the fundamentals of AI automation and robotics and be able to build simple, practical projects using these skills. I want to confidently use AI tools, automate basic tasks, and develop a foundation in robotics that I can continue building on after the program.
 ---
 
 ## How to update this file
